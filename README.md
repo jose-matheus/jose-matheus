@@ -48,8 +48,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/jose-matheus/jose-matheus/output/snake.svg" alt="Snake animation" />
-
-###
