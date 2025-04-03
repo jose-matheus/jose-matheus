@@ -1,5 +1,5 @@
 
-<h1 align="left">Olá My name is José Matheus!</h1>
+<h1 align="left">Hello, My name is José Matheus!</h1>
 <p align="left">I am currently a Systems Information student at UFC, seeking to deepen my knowledge in Back-end development technologies. My main development stacks are Java and Python</p>
 
 <div align="center">
