@@ -1,6 +1,6 @@
-<p align="left">Ola! Meu nome é José Matheus, atualmente sou estudante de Sistemas de Informação na UFC, procuro me aprofundar mais em tecnologias de desenvolvimento Back-end.</p>
 
-###
+<h1 align="left">Olá My name is José Matheus!</h1>
+<p align="left">I am currently a Systems Information student at UFC, seeking to deepen my knowledge in Back-end development technologies. My main development stacks are Java and Python</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jose-matheus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
