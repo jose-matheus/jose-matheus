@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi there! I'm José Matheus 👋 </h1>
+<h1 align="left">Hi there! I'm José Matheus 👋</h1>
 <p align="left">I'm currently pursuing a degree in Information Systems at UFC and I'm passionate about Back-end development. I'm constantly exploring new technologies to enhance my skills, with a strong focus on building robust and scalable applications.
 
 My main tech stacks are Java and Python, and I'm especially interested in frameworks like Spring Boot, FastAPI, and Flask. I'm always open to learning and collaborating on impactful projects!
