@@ -1,6 +1,10 @@
 
-<h1 align="left">Hello, My name is José Matheus!</h1>
-<p align="left">I am currently a Systems Information student at UFC, seeking to deepen my knowledge in Back-end development technologies. My main development stacks are Java and Python</p>
+<h1 align="left">Hi there! I'm José Matheus 👋</h1>
+<p align="left">I'm currently pursuing a degree in Information Systems at UFC and I'm passionate about Back-end development. I'm constantly exploring new technologies to enhance my skills, with a strong focus on building robust and scalable applications.
+
+My main tech stacks are Java and Python, and I'm especially interested in frameworks like Spring Boot, FastAPI, and Flask. I'm always open to learning and collaborating on impactful projects!
+
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jose-matheus&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
